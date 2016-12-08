@@ -5,25 +5,18 @@ body {
 p {
 }
 header{
-    background-color: limegreen;/*Temp*/
-    border-color: black;/*Temp*/
-    border-style: solid;/*Temp*/
+    background-color: green;/*Temp*/
 }
 footer{
     background-color: teal;/*Temp*/
     color: white;/*Temp*/
-    border-color: black;/*Temp*/
-    border-style: solid;/*Temp*/
 }
 /*Classes*/
 
 .navSideBar {
     background-color: red;/*Temp*/
-    border-color: black;/*Temp*/
-    border-style: solid;/*Temp*/
+    width: 20%;
 }
 .pageBody{
     background-color: yellow;
-    border-color: black;/*Temp*/
-    border-style: solid;/*Temp*/
 }
