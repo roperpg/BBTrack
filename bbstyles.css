@@ -1,11 +1,29 @@
-
 body {
-    background-color: powderblue;
-}
-h1 {
-    color: blue;
+    color: black;
+    font-family: sans-serif
 }
 p {
-    color: green;
-    font-family: "Just Another Hand", cursive;
+}
+header{
+    background-color: limegreen;/*Temp*/
+    border-color: black;/*Temp*/
+    border-style: solid;/*Temp*/
+}
+footer{
+    background-color: teal;/*Temp*/
+    color: white;/*Temp*/
+    border-color: black;/*Temp*/
+    border-style: solid;/*Temp*/
+}
+/*Classes*/
+
+.navSideBar {
+    background-color: red;/*Temp*/
+    border-color: black;/*Temp*/
+    border-style: solid;/*Temp*/
+}
+.pageBody{
+    background-color: yellow;
+    border-color: black;/*Temp*/
+    border-style: solid;/*Temp*/
 }
