@@ -1,22 +1,36 @@
 body {
     color: black;
-    font-family: sans-serif
+    /*font-family: 'Fjalla One';*/
+    font-family: "Pathway Gothic One";
 }
 p {
 }
+/*::first-letter {
+    font-size: 150%;
+    font-style: italic;
+    font-weight: bold;
+}*/
 header{
     background-color: green;/*Temp*/
+    padding: 10px;
 }
 footer{
     background-color: teal;/*Temp*/
     color: white;/*Temp*/
+    padding: 10px;
+    clear: both;
 }
 /*Classes*/
 
 .navSideBar {
     background-color: red;/*Temp*/
+    padding: 10px;
     width: 20%;
+    float: left;
 }
 .pageBody{
     background-color: yellow;
+    padding: 10px;
+    width: 70%;
+    float: left;
 }
