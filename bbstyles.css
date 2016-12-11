@@ -20,6 +20,14 @@ footer{
     padding: 10px;
     clear: both;
 }
+footer ul{/* needs work*/
+    font-weight: bold;
+    list-style-type: circle;
+}
+footer li{ /*needs work*/
+        display: inline;
+}
+
 /*Classes*/
 
 .navSideBar {
